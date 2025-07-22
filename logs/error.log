@@ -1,0 +1,1657 @@
+[2025-07-04 14:38:25] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1
+[2025-07-04 14:40:08] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 14:40:10] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1
+[2025-07-04 14:41:30] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 14:41:32] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1
+[2025-07-04 14:43:02] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 14:43:05] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1
+[2025-07-04 14:44:38] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 14:45:12] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 14:45:19] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 14:45:56] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 14:47:49] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 14:49:34] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 14:51:11] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 14:52:35] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 14:52:37] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1
+[2025-07-04 14:52:40] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1
+[2025-07-04 14:53:19] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 14:53:21] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1
+[2025-07-04 14:53:52] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 14:53:54] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1
+[2025-07-04 14:56:39] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 14:56:42] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 14:56:44] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1
+[2025-07-04 14:56:49] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1
+[2025-07-04 15:15:46] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 15:15:47] Add to cart request - User ID: 2, Product ID: 2, Quantity: 1
+[2025-07-04 15:16:47] Add to cart request - User ID: 2, Product ID: 2, Quantity: 1
+[2025-07-04 15:20:06] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 15:20:08] Add to cart request - User ID: 2, Product ID: 2, Quantity: 1
+[2025-07-04 15:23:07] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 15:23:10] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1
+[2025-07-04 15:29:35] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1, Session: {"user_id":"2","username":"anii_ket__","role":"user"}
+[2025-07-04 15:29:35] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1
+[2025-07-04 15:29:50] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1, Session: {"user_id":"2","username":"anii_ket__","role":"user"}
+[2025-07-04 15:29:50] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1
+[2025-07-04 15:30:37] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1, Session: {"user_id":"2","username":"anii_ket__","role":"user"}
+[2025-07-04 15:30:37] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1
+[2025-07-04 15:38:05] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1, Session: {"user_id":"2","username":"anii_ket__","role":"user"}
+[2025-07-04 15:38:05] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1
+[2025-07-04 15:41:20] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1, Session: {"user_id":"2","username":"anii_ket__","role":"user"}
+[2025-07-04 15:41:20] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1
+[2025-07-04 15:44:50] Add to cart request: {"post":{"product_id":"1","quantity":"1"},"session":{"user_id":"2","username":"anii_ket__","role":"user"},"user_id":"2"}
+[2025-07-04 15:44:50] Input data: {"product_id":"1","quantity":"1"}
+[2025-07-04 15:44:50] Add to cart request - User ID: 0, Product ID: 1, Quantity: 1, Session: {"user_id":"2","username":"anii_ket__","role":"user"}
+[2025-07-04 15:44:50] Add to cart request - User ID: , Product ID: , Quantity: 1
+[2025-07-04 15:44:50] Error: Product not available or out of stock - {"product_id":null,"query":"SELECT id, name, price FROM products WHERE id =  AND is_available = 1"}
+[2025-07-04 15:46:55] Add to cart request: {"post":{"product_id":"1","quantity":"1"},"session":{"user_id":"2","username":"anii_ket__","role":"user"},"user_id":"2"}
+[2025-07-04 15:46:55] Input data: {"product_id":"1","quantity":"1"}
+[2025-07-04 15:46:55] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1, Session: {"user_id":"2","username":"anii_ket__","role":"user"}
+[2025-07-04 15:46:56] Cart table already exists
+[2025-07-04 15:46:56] Existing cart item: false
+[2025-07-04 15:46:56] Cart Error: {"error":"Error adding to cart: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null","file":"C:\\xampp1\\htdocs\\Food\\add-to-cart.php","line":248,"trace":"#0 C:\\xampp1\\htdocs\\Food\\add-to-cart.php(248): PDOStatement->execute(Array)\n#1 {main}"}
+[2025-07-04 15:46:56] Error: Failed to add item to cart - {"message":"An error occurred while updating your cart","details":{"error":"Error adding to cart: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null","file":"C:\\xampp1\\htdocs\\Food\\add-to-cart.php","line":248,"trace":"#0 C:\\xampp1\\htdocs\\Food\\add-to-cart.php(248): PDOStatement->execute(Array)\n#1 {main}"}}
+[2025-07-04 15:51:52] === Starting add-to-cart.php ===
+[2025-07-04 15:51:52] POST data: {"product_id":"1","quantity":"1"}
+[2025-07-04 15:51:52] GET data: []
+[2025-07-04 15:51:52] Database connection test successful
+[2025-07-04 15:51:52] Add to cart request: {"post":{"product_id":"1","quantity":"1"},"session":{"user_id":"2","username":"anii_ket__","role":"user"},"user_id":"2"}
+[2025-07-04 15:51:52] User ID from session: 2
+[2025-07-04 15:51:52] Raw input: product_id=1&quantity=1
+[2025-07-04 15:51:52] JSON decode error: Syntax error for input: product_id=1&quantity=1
+[2025-07-04 15:51:52] Parsed input data: {"product_id":"1","quantity":"1"}
+[2025-07-04 15:51:52] Processing request - User ID: 2, Product ID: 1, Quantity: 1
+[2025-07-04 15:51:52] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1, Session: {"user_id":"2","username":"anii_ket__","role":"user"}
+[2025-07-04 15:51:52] Cart table already exists
+[2025-07-04 15:51:52] Existing cart item: false
+[2025-07-04 15:51:52] Cart Error: {"error":"Error adding to cart: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2-1' for key 'unique_cart_item'","file":"C:\\xampp1\\htdocs\\Food\\add-to-cart.php","line":292,"trace":"#0 C:\\xampp1\\htdocs\\Food\\add-to-cart.php(292): PDOStatement->execute(Array)\n#1 {main}"}
+[2025-07-04 15:51:52] Error: Failed to add item to cart - {"message":"An error occurred while updating your cart","details":{"error":"Error adding to cart: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2-1' for key 'unique_cart_item'","file":"C:\\xampp1\\htdocs\\Food\\add-to-cart.php","line":292,"trace":"#0 C:\\xampp1\\htdocs\\Food\\add-to-cart.php(292): PDOStatement->execute(Array)\n#1 {main}"}}
+[2025-07-04 15:53:57] === Starting add-to-cart.php ===
+[2025-07-04 15:53:57] POST data: {"product_id":"2","quantity":"1"}
+[2025-07-04 15:53:57] GET data: []
+[2025-07-04 15:53:57] Database connection test successful
+[2025-07-04 15:53:57] Add to cart request: {"post":{"product_id":"2","quantity":"1"},"session":{"user_id":"2","username":"anii_ket__","role":"user"},"user_id":"2"}
+[2025-07-04 15:53:57] User ID from session: 2
+[2025-07-04 15:53:57] Raw input: product_id=2&quantity=1
+[2025-07-04 15:53:57] JSON decode error: Syntax error for input: product_id=2&quantity=1
+[2025-07-04 15:53:57] Parsed input data: {"product_id":"2","quantity":"1"}
+[2025-07-04 15:53:57] Processing request - User ID: 2, Product ID: 2, Quantity: 1
+[2025-07-04 15:53:57] Add to cart request - User ID: 2, Product ID: 2, Quantity: 1, Session: {"user_id":"2","username":"anii_ket__","role":"user"}
+[2025-07-04 15:53:57] Cart table already exists
+[2025-07-04 15:53:57] Existing cart item: false
+[2025-07-04 15:53:57] Cart added - User ID: 2, Product ID: 2, Quantity: 1, Cart Count: 2
+[2025-07-04 15:54:50] === Starting add-to-cart.php ===
+[2025-07-04 15:54:50] POST data: []
+[2025-07-04 15:54:50] GET data: {"id":"2"}
+[2025-07-04 15:54:50] Database connection test successful
+[2025-07-04 15:54:50] Add to cart request: {"post":[],"session":{"user_id":"2","username":"anii_ket__","role":"user"},"user_id":"2"}
+[2025-07-04 15:54:50] User ID from session: 2
+[2025-07-04 15:54:50] Raw input: 
+[2025-07-04 15:54:50] Parsed input data: []
+[2025-07-04 15:54:50] Invalid product ID: not provided
+[2025-07-04 15:54:50] Error: Invalid product ID: not provided - {"input":[],"post":[],"raw_input":""}
+[2025-07-04 15:54:57] === Starting add-to-cart.php ===
+[2025-07-04 15:54:57] POST data: {"product_id":"2","quantity":"1"}
+[2025-07-04 15:54:57] GET data: []
+[2025-07-04 15:54:57] Database connection test successful
+[2025-07-04 15:54:57] Add to cart request: {"post":{"product_id":"2","quantity":"1"},"session":{"user_id":"2","username":"anii_ket__","role":"user"},"user_id":"2"}
+[2025-07-04 15:54:57] User ID from session: 2
+[2025-07-04 15:54:57] Raw input: product_id=2&quantity=1
+[2025-07-04 15:54:57] JSON decode error: Syntax error for input: product_id=2&quantity=1
+[2025-07-04 15:54:57] Parsed input data: {"product_id":"2","quantity":"1"}
+[2025-07-04 15:54:57] Processing request - User ID: 2, Product ID: 2, Quantity: 1
+[2025-07-04 15:54:57] Add to cart request - User ID: 2, Product ID: 2, Quantity: 1, Session: {"user_id":"2","username":"anii_ket__","role":"user"}
+[2025-07-04 15:54:57] Cart table already exists
+[2025-07-04 15:54:57] Existing cart item: false
+[2025-07-04 15:54:57] Cart Error: {"error":"Error adding to cart: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2-2' for key 'unique_cart_item'","file":"C:\\xampp1\\htdocs\\Food\\add-to-cart.php","line":292,"trace":"#0 C:\\xampp1\\htdocs\\Food\\add-to-cart.php(292): PDOStatement->execute(Array)\n#1 {main}"}
+[2025-07-04 15:54:57] Error: Failed to add item to cart - {"message":"An error occurred while updating your cart","details":{"error":"Error adding to cart: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2-2' for key 'unique_cart_item'","file":"C:\\xampp1\\htdocs\\Food\\add-to-cart.php","line":292,"trace":"#0 C:\\xampp1\\htdocs\\Food\\add-to-cart.php(292): PDOStatement->execute(Array)\n#1 {main}"}}
+[2025-07-04 15:55:00] === Starting add-to-cart.php ===
+[2025-07-04 15:55:00] POST data: {"product_id":"1","quantity":"1"}
+[2025-07-04 15:55:00] GET data: []
+[2025-07-04 15:55:00] Database connection test successful
+[2025-07-04 15:55:00] Add to cart request: {"post":{"product_id":"1","quantity":"1"},"session":{"user_id":"2","username":"anii_ket__","role":"user"},"user_id":"2"}
+[2025-07-04 15:55:00] User ID from session: 2
+[2025-07-04 15:55:00] Raw input: product_id=1&quantity=1
+[2025-07-04 15:55:00] JSON decode error: Syntax error for input: product_id=1&quantity=1
+[2025-07-04 15:55:00] Parsed input data: {"product_id":"1","quantity":"1"}
+[2025-07-04 15:55:00] Processing request - User ID: 2, Product ID: 1, Quantity: 1
+[2025-07-04 15:55:00] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1, Session: {"user_id":"2","username":"anii_ket__","role":"user"}
+[2025-07-04 15:55:00] Cart table already exists
+[2025-07-04 15:55:00] Existing cart item: false
+[2025-07-04 15:55:00] Cart Error: {"error":"Error adding to cart: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2-1' for key 'unique_cart_item'","file":"C:\\xampp1\\htdocs\\Food\\add-to-cart.php","line":292,"trace":"#0 C:\\xampp1\\htdocs\\Food\\add-to-cart.php(292): PDOStatement->execute(Array)\n#1 {main}"}
+[2025-07-04 15:55:00] Error: Failed to add item to cart - {"message":"An error occurred while updating your cart","details":{"error":"Error adding to cart: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2-1' for key 'unique_cart_item'","file":"C:\\xampp1\\htdocs\\Food\\add-to-cart.php","line":292,"trace":"#0 C:\\xampp1\\htdocs\\Food\\add-to-cart.php(292): PDOStatement->execute(Array)\n#1 {main}"}}
+[2025-07-04 15:55:13] === Starting add-to-cart.php ===
+[2025-07-04 15:55:13] POST data: {"product_id":"1","quantity":"1"}
+[2025-07-04 15:55:13] GET data: []
+[2025-07-04 15:55:13] Database connection test successful
+[2025-07-04 15:55:13] Add to cart request: {"post":{"product_id":"1","quantity":"1"},"session":{"user_id":"2","username":"anii_ket__","role":"user"},"user_id":"2"}
+[2025-07-04 15:55:13] User ID from session: 2
+[2025-07-04 15:55:13] Raw input: product_id=1&quantity=1
+[2025-07-04 15:55:13] JSON decode error: Syntax error for input: product_id=1&quantity=1
+[2025-07-04 15:55:13] Parsed input data: {"product_id":"1","quantity":"1"}
+[2025-07-04 15:55:13] Processing request - User ID: 2, Product ID: 1, Quantity: 1
+[2025-07-04 15:55:13] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1, Session: {"user_id":"2","username":"anii_ket__","role":"user"}
+[2025-07-04 15:55:13] Cart table already exists
+[2025-07-04 15:55:13] Existing cart item: false
+[2025-07-04 15:55:13] Cart Error: {"error":"Error adding to cart: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2-1' for key 'unique_cart_item'","file":"C:\\xampp1\\htdocs\\Food\\add-to-cart.php","line":292,"trace":"#0 C:\\xampp1\\htdocs\\Food\\add-to-cart.php(292): PDOStatement->execute(Array)\n#1 {main}"}
+[2025-07-04 15:55:13] Error: Failed to add item to cart - {"message":"An error occurred while updating your cart","details":{"error":"Error adding to cart: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2-1' for key 'unique_cart_item'","file":"C:\\xampp1\\htdocs\\Food\\add-to-cart.php","line":292,"trace":"#0 C:\\xampp1\\htdocs\\Food\\add-to-cart.php(292): PDOStatement->execute(Array)\n#1 {main}"}}
+[2025-07-04 15:58:53] {
+    "SCRIPT_START": {
+        "time": "2025-07-04 15:58:53",
+        "method": "POST",
+        "post": {
+            "product_id": "1",
+            "quantity": "1"
+        },
+        "get": [],
+        "input": "product_id=1&quantity=1",
+        "session": {
+            "user_id": "2",
+            "username": "anii_ket__",
+            "role": "user"
+        }
+    }
+}
+[2025-07-04 15:58:53] Database connection test successful
+[2025-07-04 15:58:53] Add to cart request: {"post":{"product_id":"1","quantity":"1"},"session":{"user_id":"2","username":"anii_ket__","role":"user"},"user_id":"2"}
+[2025-07-04 15:58:53] {
+    "USER_SESSION": {
+        "user_id": 2,
+        "session_id": "1uc4e0jp30m3qgpob90vg0fdgj"
+    }
+}
+[2025-07-04 15:58:53] {
+    "REQUEST_DETAILS": {
+        "method": "POST",
+        "content_type": "application\/x-www-form-urlencoded",
+        "raw_input": "product_id=1&quantity=1",
+        "post": {
+            "product_id": "1",
+            "quantity": "1"
+        },
+        "get": []
+    }
+}
+[2025-07-04 15:58:53] {
+    "PARSED_INPUT": {
+        "product_id": "1",
+        "quantity": "1"
+    }
+}
+[2025-07-04 15:58:53] {
+    "PROCESSING_REQUEST": {
+        "user_id": 2,
+        "product_id": 1,
+        "quantity": 1
+    }
+}
+[2025-07-04 15:58:53] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1, Session: {"user_id":"2","username":"anii_ket__","role":"user"}
+[2025-07-04 15:58:53] Cart table already exists
+[2025-07-04 15:58:53] Existing cart item: false
+[2025-07-04 15:58:53] Cart Error: {"error":"Error adding to cart: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2-1' for key 'unique_cart_item'","file":"C:\\xampp1\\htdocs\\Food\\add-to-cart.php","line":348,"trace":"#0 C:\\xampp1\\htdocs\\Food\\add-to-cart.php(348): PDOStatement->execute(Array)\n#1 {main}"}
+[2025-07-04 15:58:53] {
+    "ERROR_RESPONSE": {
+        "message": "Failed to add item to cart",
+        "data": {
+            "message": "An error occurred while updating your cart",
+            "details": {
+                "error": "Error adding to cart: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2-1' for key 'unique_cart_item'",
+                "file": "C:\\xampp1\\htdocs\\Food\\add-to-cart.php",
+                "line": 348,
+                "trace": "#0 C:\\xampp1\\htdocs\\Food\\add-to-cart.php(348): PDOStatement->execute(Array)\n#1 {main}"
+            }
+        },
+        "http_code": 500,
+        "backtrace": [
+            {
+                "file": "C:\\xampp1\\htdocs\\Food\\add-to-cart.php",
+                "line": 394,
+                "function": "sendJsonResponse"
+            }
+        ]
+    }
+}
+[2025-07-04 16:03:15] {
+    "SCRIPT_START": {
+        "time": "2025-07-04 16:03:15",
+        "method": "POST",
+        "post": {
+            "product_id": "1",
+            "quantity": "1"
+        },
+        "get": [],
+        "input": "product_id=1&quantity=1",
+        "session": {
+            "user_id": "2",
+            "username": "anii_ket__",
+            "role": "user"
+        }
+    }
+}
+[2025-07-04 16:03:15] Database connection test successful
+[2025-07-04 16:03:15] Add to cart request: {"post":{"product_id":"1","quantity":"1"},"session":{"user_id":"2","username":"anii_ket__","role":"user"},"user_id":"2"}
+[2025-07-04 16:03:15] {
+    "USER_SESSION": {
+        "user_id": 2,
+        "session_id": "1uc4e0jp30m3qgpob90vg0fdgj"
+    }
+}
+[2025-07-04 16:03:15] {
+    "REQUEST_DETAILS": {
+        "method": "POST",
+        "content_type": "application\/x-www-form-urlencoded",
+        "raw_input": "product_id=1&quantity=1",
+        "post": {
+            "product_id": "1",
+            "quantity": "1"
+        },
+        "get": []
+    }
+}
+[2025-07-04 16:03:15] {
+    "PARSED_INPUT": {
+        "product_id": "1",
+        "quantity": "1"
+    }
+}
+[2025-07-04 16:03:15] {
+    "PROCESSING_REQUEST": {
+        "user_id": 2,
+        "product_id": 1,
+        "quantity": 1
+    }
+}
+[2025-07-04 16:03:15] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1, Session: {"user_id":"2","username":"anii_ket__","role":"user"}
+[2025-07-04 16:03:15] Cart table already exists
+[2025-07-04 16:03:15] {
+    "CART_ACTION": {
+        "action": "updated",
+        "user_id": 2,
+        "product_id": 1,
+        "quantity": 1,
+        "existing_quantity": 2,
+        "new_quantity": 3,
+        "message": "Cart updated successfully"
+    }
+}
+[2025-07-04 16:03:15] Cart updated - User ID: 2, Product ID: 1, Quantity: 1, Cart Count: 2
+[2025-07-04 16:05:07] {
+    "SCRIPT_START": {
+        "time": "2025-07-04 16:05:07",
+        "method": "POST",
+        "post": {
+            "product_id": "2",
+            "quantity": "1"
+        },
+        "get": [],
+        "input": "product_id=2&quantity=1",
+        "session": {
+            "user_id": "2",
+            "username": "anii_ket__",
+            "role": "user"
+        }
+    }
+}
+[2025-07-04 16:05:07] Database connection test successful
+[2025-07-04 16:05:07] Add to cart request: {"post":{"product_id":"2","quantity":"1"},"session":{"user_id":"2","username":"anii_ket__","role":"user"},"user_id":"2"}
+[2025-07-04 16:05:07] {
+    "USER_SESSION": {
+        "user_id": 2,
+        "session_id": "1uc4e0jp30m3qgpob90vg0fdgj"
+    }
+}
+[2025-07-04 16:05:07] {
+    "REQUEST_DETAILS": {
+        "method": "POST",
+        "content_type": "application\/x-www-form-urlencoded",
+        "raw_input": "product_id=2&quantity=1",
+        "post": {
+            "product_id": "2",
+            "quantity": "1"
+        },
+        "get": []
+    }
+}
+[2025-07-04 16:05:07] {
+    "PARSED_INPUT": {
+        "product_id": "2",
+        "quantity": "1"
+    }
+}
+[2025-07-04 16:05:07] {
+    "PROCESSING_REQUEST": {
+        "user_id": 2,
+        "product_id": 2,
+        "quantity": 1
+    }
+}
+[2025-07-04 16:05:07] Add to cart request - User ID: 2, Product ID: 2, Quantity: 1, Session: {"user_id":"2","username":"anii_ket__","role":"user"}
+[2025-07-04 16:05:07] Cart table already exists
+[2025-07-04 16:05:07] {
+    "CART_ACTION": {
+        "action": "updated",
+        "user_id": 2,
+        "product_id": 2,
+        "quantity": 1,
+        "existing_quantity": 1,
+        "new_quantity": 2,
+        "message": "Cart updated successfully"
+    }
+}
+[2025-07-04 16:05:07] Cart updated - User ID: 2, Product ID: 2, Quantity: 1, Cart Count: 2
+[2025-07-04 16:05:53] {
+    "SCRIPT_START": {
+        "time": "2025-07-04 16:05:53",
+        "method": "POST",
+        "post": {
+            "product_id": "1",
+            "quantity": "1"
+        },
+        "get": [],
+        "input": "product_id=1&quantity=1",
+        "session": {
+            "user_id": "2",
+            "username": "anii_ket__",
+            "role": "user"
+        }
+    }
+}
+[2025-07-04 16:05:53] Database connection test successful
+[2025-07-04 16:05:53] Add to cart request: {"post":{"product_id":"1","quantity":"1"},"session":{"user_id":"2","username":"anii_ket__","role":"user"},"user_id":"2"}
+[2025-07-04 16:05:53] {
+    "USER_SESSION": {
+        "user_id": 2,
+        "session_id": "1uc4e0jp30m3qgpob90vg0fdgj"
+    }
+}
+[2025-07-04 16:05:53] {
+    "REQUEST_DETAILS": {
+        "method": "POST",
+        "content_type": "application\/x-www-form-urlencoded",
+        "raw_input": "product_id=1&quantity=1",
+        "post": {
+            "product_id": "1",
+            "quantity": "1"
+        },
+        "get": []
+    }
+}
+[2025-07-04 16:05:53] {
+    "PARSED_INPUT": {
+        "product_id": "1",
+        "quantity": "1"
+    }
+}
+[2025-07-04 16:05:53] {
+    "PROCESSING_REQUEST": {
+        "user_id": 2,
+        "product_id": 1,
+        "quantity": 1
+    }
+}
+[2025-07-04 16:05:53] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1, Session: {"user_id":"2","username":"anii_ket__","role":"user"}
+[2025-07-04 16:05:53] Cart table already exists
+[2025-07-04 16:05:53] {
+    "CART_ACTION": {
+        "action": "updated",
+        "user_id": 2,
+        "product_id": 1,
+        "quantity": 1,
+        "existing_quantity": 3,
+        "new_quantity": 4,
+        "message": "Cart updated successfully"
+    }
+}
+[2025-07-04 16:05:53] Cart updated - User ID: 2, Product ID: 1, Quantity: 1, Cart Count: 2
+[2025-07-04 16:06:47] {
+    "SCRIPT_START": {
+        "time": "2025-07-04 16:06:47",
+        "method": "POST",
+        "post": {
+            "product_id": "1",
+            "quantity": "1"
+        },
+        "get": [],
+        "input": "product_id=1&quantity=1",
+        "session": {
+            "user_id": "2",
+            "username": "anii_ket__",
+            "role": "user"
+        }
+    }
+}
+[2025-07-04 16:06:47] Database connection test successful
+[2025-07-04 16:06:47] Add to cart request: {"post":{"product_id":"1","quantity":"1"},"session":{"user_id":"2","username":"anii_ket__","role":"user"},"user_id":"2"}
+[2025-07-04 16:06:47] {
+    "USER_SESSION": {
+        "user_id": 2,
+        "session_id": "1uc4e0jp30m3qgpob90vg0fdgj"
+    }
+}
+[2025-07-04 16:06:47] {
+    "REQUEST_DETAILS": {
+        "method": "POST",
+        "content_type": "application\/x-www-form-urlencoded",
+        "raw_input": "product_id=1&quantity=1",
+        "post": {
+            "product_id": "1",
+            "quantity": "1"
+        },
+        "get": []
+    }
+}
+[2025-07-04 16:06:47] {
+    "PARSED_INPUT": {
+        "product_id": "1",
+        "quantity": "1"
+    }
+}
+[2025-07-04 16:06:47] {
+    "PROCESSING_REQUEST": {
+        "user_id": 2,
+        "product_id": 1,
+        "quantity": 1
+    }
+}
+[2025-07-04 16:06:47] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1, Session: {"user_id":"2","username":"anii_ket__","role":"user"}
+[2025-07-04 16:06:47] Cart table already exists
+[2025-07-04 16:06:47] {
+    "CART_ACTION": {
+        "action": "updated",
+        "user_id": 2,
+        "product_id": 1,
+        "quantity": 1,
+        "existing_quantity": 4,
+        "new_quantity": 5,
+        "message": "Cart updated successfully"
+    }
+}
+[2025-07-04 16:06:47] Cart updated - User ID: 2, Product ID: 1, Quantity: 1, Cart Count: 2
+[2025-07-04 16:07:07] {
+    "SCRIPT_START": {
+        "time": "2025-07-04 16:07:07",
+        "method": "POST",
+        "post": {
+            "product_id": "2",
+            "quantity": "1"
+        },
+        "get": [],
+        "input": "product_id=2&quantity=1",
+        "session": {
+            "user_id": "2",
+            "username": "anii_ket__",
+            "role": "user"
+        }
+    }
+}
+[2025-07-04 16:07:07] Database connection test successful
+[2025-07-04 16:07:07] Add to cart request: {"post":{"product_id":"2","quantity":"1"},"session":{"user_id":"2","username":"anii_ket__","role":"user"},"user_id":"2"}
+[2025-07-04 16:07:07] {
+    "USER_SESSION": {
+        "user_id": 2,
+        "session_id": "1uc4e0jp30m3qgpob90vg0fdgj"
+    }
+}
+[2025-07-04 16:07:07] {
+    "REQUEST_DETAILS": {
+        "method": "POST",
+        "content_type": "application\/x-www-form-urlencoded",
+        "raw_input": "product_id=2&quantity=1",
+        "post": {
+            "product_id": "2",
+            "quantity": "1"
+        },
+        "get": []
+    }
+}
+[2025-07-04 16:07:07] {
+    "PARSED_INPUT": {
+        "product_id": "2",
+        "quantity": "1"
+    }
+}
+[2025-07-04 16:07:07] {
+    "PROCESSING_REQUEST": {
+        "user_id": 2,
+        "product_id": 2,
+        "quantity": 1
+    }
+}
+[2025-07-04 16:07:07] Add to cart request - User ID: 2, Product ID: 2, Quantity: 1, Session: {"user_id":"2","username":"anii_ket__","role":"user"}
+[2025-07-04 16:07:07] Cart table already exists
+[2025-07-04 16:07:07] {
+    "CART_ACTION": {
+        "action": "updated",
+        "user_id": 2,
+        "product_id": 2,
+        "quantity": 1,
+        "existing_quantity": 2,
+        "new_quantity": 3,
+        "message": "Cart updated successfully"
+    }
+}
+[2025-07-04 16:07:07] Cart updated - User ID: 2, Product ID: 2, Quantity: 1, Cart Count: 2
+[2025-07-04 16:08:22] {
+    "SCRIPT_START": {
+        "time": "2025-07-04 16:08:22",
+        "method": "POST",
+        "post": {
+            "product_id": "2",
+            "quantity": "1"
+        },
+        "get": [],
+        "input": "product_id=2&quantity=1",
+        "session": {
+            "user_id": "2",
+            "username": "anii_ket__",
+            "role": "user"
+        }
+    }
+}
+[2025-07-04 16:08:22] Database connection test successful
+[2025-07-04 16:08:22] Add to cart request: {"post":{"product_id":"2","quantity":"1"},"session":{"user_id":"2","username":"anii_ket__","role":"user"},"user_id":"2"}
+[2025-07-04 16:08:22] {
+    "USER_SESSION": {
+        "user_id": 2,
+        "session_id": "1uc4e0jp30m3qgpob90vg0fdgj"
+    }
+}
+[2025-07-04 16:08:22] {
+    "REQUEST_DETAILS": {
+        "method": "POST",
+        "content_type": "application\/x-www-form-urlencoded",
+        "raw_input": "product_id=2&quantity=1",
+        "post": {
+            "product_id": "2",
+            "quantity": "1"
+        },
+        "get": []
+    }
+}
+[2025-07-04 16:08:22] {
+    "PARSED_INPUT": {
+        "product_id": "2",
+        "quantity": "1"
+    }
+}
+[2025-07-04 16:08:22] {
+    "PROCESSING_REQUEST": {
+        "user_id": 2,
+        "product_id": 2,
+        "quantity": 1
+    }
+}
+[2025-07-04 16:08:22] Add to cart request - User ID: 2, Product ID: 2, Quantity: 1, Session: {"user_id":"2","username":"anii_ket__","role":"user"}
+[2025-07-04 16:08:22] Cart table already exists
+[2025-07-04 16:08:22] {
+    "CART_ACTION": {
+        "action": "updated",
+        "user_id": 2,
+        "product_id": 2,
+        "quantity": 1,
+        "existing_quantity": 3,
+        "new_quantity": 4,
+        "message": "Cart updated successfully"
+    }
+}
+[2025-07-04 16:08:22] Cart updated - User ID: 2, Product ID: 2, Quantity: 1, Cart Count: 2
+[2025-07-04 16:09:42] {
+    "SCRIPT_START": {
+        "time": "2025-07-04 16:09:42",
+        "method": "POST",
+        "post": {
+            "product_id": "1",
+            "quantity": "1"
+        },
+        "get": [],
+        "input": "product_id=1&quantity=1",
+        "session": {
+            "user_id": "2",
+            "username": "anii_ket__",
+            "role": "user"
+        }
+    }
+}
+[2025-07-04 16:09:42] Database connection test successful
+[2025-07-04 16:09:42] Add to cart request: {"post":{"product_id":"1","quantity":"1"},"session":{"user_id":"2","username":"anii_ket__","role":"user"},"user_id":"2"}
+[2025-07-04 16:09:42] {
+    "USER_SESSION": {
+        "user_id": 2,
+        "session_id": "1uc4e0jp30m3qgpob90vg0fdgj"
+    }
+}
+[2025-07-04 16:09:42] {
+    "REQUEST_DETAILS": {
+        "method": "POST",
+        "content_type": "application\/x-www-form-urlencoded",
+        "raw_input": "product_id=1&quantity=1",
+        "post": {
+            "product_id": "1",
+            "quantity": "1"
+        },
+        "get": []
+    }
+}
+[2025-07-04 16:09:42] {
+    "PARSED_INPUT": {
+        "product_id": "1",
+        "quantity": "1"
+    }
+}
+[2025-07-04 16:09:42] {
+    "PROCESSING_REQUEST": {
+        "user_id": 2,
+        "product_id": 1,
+        "quantity": 1
+    }
+}
+[2025-07-04 16:09:42] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1, Session: {"user_id":"2","username":"anii_ket__","role":"user"}
+[2025-07-04 16:09:42] Cart table already exists
+[2025-07-04 16:09:42] {
+    "CART_ACTION": {
+        "action": "updated",
+        "user_id": 2,
+        "product_id": 1,
+        "quantity": 1,
+        "existing_quantity": 5,
+        "new_quantity": 6,
+        "message": "Cart updated successfully"
+    }
+}
+[2025-07-04 16:09:42] Cart updated - User ID: 2, Product ID: 1, Quantity: 1, Cart Count: 2
+[2025-07-04 16:11:16] {
+    "SCRIPT_START": {
+        "time": "2025-07-04 16:11:16",
+        "method": "POST",
+        "post": {
+            "product_id": "2",
+            "quantity": "1"
+        },
+        "get": [],
+        "input": "product_id=2&quantity=1",
+        "session": {
+            "user_id": "2",
+            "username": "anii_ket__",
+            "role": "user"
+        }
+    }
+}
+[2025-07-04 16:11:16] Database connection test successful
+[2025-07-04 16:11:16] Add to cart request: {"post":{"product_id":"2","quantity":"1"},"session":{"user_id":"2","username":"anii_ket__","role":"user"},"user_id":"2"}
+[2025-07-04 16:11:16] {
+    "USER_SESSION": {
+        "user_id": 2,
+        "session_id": "1uc4e0jp30m3qgpob90vg0fdgj"
+    }
+}
+[2025-07-04 16:11:16] {
+    "REQUEST_DETAILS": {
+        "method": "POST",
+        "content_type": "application\/x-www-form-urlencoded",
+        "raw_input": "product_id=2&quantity=1",
+        "post": {
+            "product_id": "2",
+            "quantity": "1"
+        },
+        "get": []
+    }
+}
+[2025-07-04 16:11:16] {
+    "PARSED_INPUT": {
+        "product_id": "2",
+        "quantity": "1"
+    }
+}
+[2025-07-04 16:11:16] {
+    "PROCESSING_REQUEST": {
+        "user_id": 2,
+        "product_id": 2,
+        "quantity": 1
+    }
+}
+[2025-07-04 16:11:16] Add to cart request - User ID: 2, Product ID: 2, Quantity: 1, Session: {"user_id":"2","username":"anii_ket__","role":"user"}
+[2025-07-04 16:11:16] Cart table already exists
+[2025-07-04 16:11:16] {
+    "CART_ACTION": {
+        "action": "updated",
+        "user_id": 2,
+        "product_id": 2,
+        "quantity": 1,
+        "existing_quantity": 4,
+        "new_quantity": 5,
+        "message": "Cart updated successfully"
+    }
+}
+[2025-07-04 16:11:16] Cart updated - User ID: 2, Product ID: 2, Quantity: 1, Cart Count: 2
+[2025-07-04 16:13:15] {
+    "SCRIPT_START": {
+        "time": "2025-07-04 16:13:15",
+        "method": "POST",
+        "post": {
+            "product_id": "2",
+            "quantity": "1"
+        },
+        "get": [],
+        "input": "product_id=2&quantity=1",
+        "session": {
+            "user_id": "2",
+            "username": "anii_ket__",
+            "role": "user"
+        }
+    }
+}
+[2025-07-04 16:13:15] Database connection test successful
+[2025-07-04 16:13:15] Add to cart request: {"post":{"product_id":"2","quantity":"1"},"session":{"user_id":"2","username":"anii_ket__","role":"user"},"user_id":"2"}
+[2025-07-04 16:13:15] {
+    "USER_SESSION": {
+        "user_id": 2,
+        "session_id": "1uc4e0jp30m3qgpob90vg0fdgj"
+    }
+}
+[2025-07-04 16:13:15] {
+    "REQUEST_DETAILS": {
+        "method": "POST",
+        "content_type": "application\/x-www-form-urlencoded",
+        "raw_input": "product_id=2&quantity=1",
+        "post": {
+            "product_id": "2",
+            "quantity": "1"
+        },
+        "get": []
+    }
+}
+[2025-07-04 16:13:15] {
+    "PARSED_INPUT": {
+        "product_id": "2",
+        "quantity": "1"
+    }
+}
+[2025-07-04 16:13:15] {
+    "PROCESSING_REQUEST": {
+        "user_id": 2,
+        "product_id": 2,
+        "quantity": 1
+    }
+}
+[2025-07-04 16:13:15] Add to cart request - User ID: 2, Product ID: 2, Quantity: 1, Session: {"user_id":"2","username":"anii_ket__","role":"user"}
+[2025-07-04 16:13:15] Cart table already exists
+[2025-07-04 16:13:15] {
+    "CART_ACTION": {
+        "action": "updated",
+        "user_id": 2,
+        "product_id": 2,
+        "quantity": 1,
+        "existing_quantity": 5,
+        "new_quantity": 6,
+        "message": "Cart updated successfully"
+    }
+}
+[2025-07-04 16:13:15] Cart updated - User ID: 2, Product ID: 2, Quantity: 1, Cart Count: 2
+[2025-07-04 16:25:02] {
+    "SCRIPT_START": {
+        "time": "2025-07-04 16:25:02",
+        "method": "POST",
+        "post": {
+            "product_id": "1",
+            "quantity": "1"
+        },
+        "get": [],
+        "input": "product_id=1&quantity=1",
+        "session": {
+            "user_id": "2",
+            "username": "anii_ket__",
+            "role": "user"
+        }
+    }
+}
+[2025-07-04 16:25:02] Database connection test successful
+[2025-07-04 16:25:02] Add to cart request: {"post":{"product_id":"1","quantity":"1"},"session":{"user_id":"2","username":"anii_ket__","role":"user"},"user_id":"2"}
+[2025-07-04 16:25:02] {
+    "USER_SESSION": {
+        "user_id": 2,
+        "session_id": "1uc4e0jp30m3qgpob90vg0fdgj"
+    }
+}
+[2025-07-04 16:25:02] {
+    "REQUEST_DETAILS": {
+        "method": "POST",
+        "content_type": "application\/x-www-form-urlencoded",
+        "raw_input": "product_id=1&quantity=1",
+        "post": {
+            "product_id": "1",
+            "quantity": "1"
+        },
+        "get": []
+    }
+}
+[2025-07-04 16:25:02] {
+    "PARSED_INPUT": {
+        "product_id": "1",
+        "quantity": "1"
+    }
+}
+[2025-07-04 16:25:02] {
+    "PROCESSING_REQUEST": {
+        "user_id": 2,
+        "product_id": 1,
+        "quantity": 1
+    }
+}
+[2025-07-04 16:25:02] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1, Session: {"user_id":"2","username":"anii_ket__","role":"user"}
+[2025-07-04 16:25:02] Cart table already exists
+[2025-07-04 16:25:02] {
+    "CART_ACTION": {
+        "action": "updated",
+        "user_id": 2,
+        "product_id": 1,
+        "quantity": 1,
+        "existing_quantity": 6,
+        "new_quantity": 7,
+        "message": "Cart updated successfully"
+    }
+}
+[2025-07-04 16:25:02] Cart updated - User ID: 2, Product ID: 1, Quantity: 1, Cart Count: 2
+[2025-07-04 16:33:52] {
+    "SCRIPT_START": {
+        "time": "2025-07-04 16:33:52",
+        "method": "POST",
+        "post": {
+            "product_id": "2",
+            "quantity": "1"
+        },
+        "get": [],
+        "input": "product_id=2&quantity=1",
+        "session": {
+            "user_id": "2",
+            "username": "anii_ket__",
+            "role": "user"
+        }
+    }
+}
+[2025-07-04 16:33:52] Database connection test successful
+[2025-07-04 16:33:52] Add to cart request: {"post":{"product_id":"2","quantity":"1"},"session":{"user_id":"2","username":"anii_ket__","role":"user"},"user_id":"2"}
+[2025-07-04 16:33:52] {
+    "USER_SESSION": {
+        "user_id": 2,
+        "session_id": "1uc4e0jp30m3qgpob90vg0fdgj"
+    }
+}
+[2025-07-04 16:33:52] {
+    "REQUEST_DETAILS": {
+        "method": "POST",
+        "content_type": "application\/x-www-form-urlencoded",
+        "raw_input": "product_id=2&quantity=1",
+        "post": {
+            "product_id": "2",
+            "quantity": "1"
+        },
+        "get": []
+    }
+}
+[2025-07-04 16:33:52] {
+    "PARSED_INPUT": {
+        "product_id": "2",
+        "quantity": "1"
+    }
+}
+[2025-07-04 16:33:52] {
+    "PROCESSING_REQUEST": {
+        "user_id": 2,
+        "product_id": 2,
+        "quantity": 1
+    }
+}
+[2025-07-04 16:33:52] Add to cart request - User ID: 2, Product ID: 2, Quantity: 1, Session: {"user_id":"2","username":"anii_ket__","role":"user"}
+[2025-07-04 16:33:52] Cart table already exists
+[2025-07-04 16:33:52] {
+    "CART_ACTION": {
+        "action": "updated",
+        "user_id": 2,
+        "product_id": 2,
+        "quantity": 1,
+        "existing_quantity": 6,
+        "new_quantity": 7,
+        "message": "Cart updated successfully"
+    }
+}
+[2025-07-04 16:33:52] Cart updated - User ID: 2, Product ID: 2, Quantity: 1, Cart Count: 2
+[2025-07-04 16:35:12] {
+    "SCRIPT_START": {
+        "time": "2025-07-04 16:35:12",
+        "method": "POST",
+        "post": {
+            "product_id": "1",
+            "quantity": "1"
+        },
+        "get": [],
+        "input": "product_id=1&quantity=1",
+        "session": {
+            "user_id": "2",
+            "username": "anii_ket__",
+            "role": "user"
+        }
+    }
+}
+[2025-07-04 16:35:12] Database connection test successful
+[2025-07-04 16:35:12] Add to cart request: {"post":{"product_id":"1","quantity":"1"},"session":{"user_id":"2","username":"anii_ket__","role":"user"},"user_id":"2"}
+[2025-07-04 16:35:12] {
+    "USER_SESSION": {
+        "user_id": 2,
+        "session_id": "1uc4e0jp30m3qgpob90vg0fdgj"
+    }
+}
+[2025-07-04 16:35:12] {
+    "REQUEST_DETAILS": {
+        "method": "POST",
+        "content_type": "application\/x-www-form-urlencoded",
+        "raw_input": "product_id=1&quantity=1",
+        "post": {
+            "product_id": "1",
+            "quantity": "1"
+        },
+        "get": []
+    }
+}
+[2025-07-04 16:35:12] {
+    "PARSED_INPUT": {
+        "product_id": "1",
+        "quantity": "1"
+    }
+}
+[2025-07-04 16:35:12] {
+    "PROCESSING_REQUEST": {
+        "user_id": 2,
+        "product_id": 1,
+        "quantity": 1
+    }
+}
+[2025-07-04 16:35:12] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1, Session: {"user_id":"2","username":"anii_ket__","role":"user"}
+[2025-07-04 16:35:12] Cart table already exists
+[2025-07-04 16:35:12] {
+    "CART_ACTION": {
+        "action": "updated",
+        "user_id": 2,
+        "product_id": 1,
+        "quantity": 1,
+        "existing_quantity": 7,
+        "new_quantity": 8,
+        "message": "Cart updated successfully"
+    }
+}
+[2025-07-04 16:35:12] Cart updated - User ID: 2, Product ID: 1, Quantity: 1, Cart Count: 2
+[2025-07-04 17:46:53] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 17:48:11] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 17:48:13] {
+    "SCRIPT_START": {
+        "time": "2025-07-04 17:48:13",
+        "method": "POST",
+        "post": {
+            "product_id": "1",
+            "quantity": "1"
+        },
+        "get": [],
+        "input": "product_id=1&quantity=1",
+        "session": {
+            "user_id": "2",
+            "username": "anii_ket__",
+            "role": "user"
+        }
+    }
+}
+[2025-07-04 17:48:13] Database connection test successful
+[2025-07-04 17:48:13] Add to cart request: {"post":{"product_id":"1","quantity":"1"},"session":{"user_id":"2","username":"anii_ket__","role":"user"},"user_id":"2"}
+[2025-07-04 17:48:13] {
+    "USER_SESSION": {
+        "user_id": 2,
+        "session_id": "1uc4e0jp30m3qgpob90vg0fdgj"
+    }
+}
+[2025-07-04 17:48:13] {
+    "REQUEST_DETAILS": {
+        "method": "POST",
+        "content_type": "application\/x-www-form-urlencoded",
+        "raw_input": "product_id=1&quantity=1",
+        "post": {
+            "product_id": "1",
+            "quantity": "1"
+        },
+        "get": []
+    }
+}
+[2025-07-04 17:48:13] {
+    "PARSED_INPUT": {
+        "product_id": "1",
+        "quantity": "1"
+    }
+}
+[2025-07-04 17:48:13] {
+    "PROCESSING_REQUEST": {
+        "user_id": 2,
+        "product_id": 1,
+        "quantity": 1
+    }
+}
+[2025-07-04 17:48:13] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1, Session: {"user_id":"2","username":"anii_ket__","role":"user"}
+[2025-07-04 17:48:13] Cart table already exists
+[2025-07-04 17:48:13] Cart Error: {"error":"Error adding to cart: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'product_id' in 'where clause'","file":"C:\\xampp1\\htdocs\\Food\\add-to-cart.php","line":320,"trace":"#0 C:\\xampp1\\htdocs\\Food\\add-to-cart.php(320): PDO->prepare('SELECT * FROM c...')\n#1 {main}"}
+[2025-07-04 17:48:13] {
+    "ERROR_RESPONSE": {
+        "message": "Failed to add item to cart",
+        "data": {
+            "message": "An error occurred while updating your cart",
+            "details": {
+                "error": "Error adding to cart: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'product_id' in 'where clause'",
+                "file": "C:\\xampp1\\htdocs\\Food\\add-to-cart.php",
+                "line": 320,
+                "trace": "#0 C:\\xampp1\\htdocs\\Food\\add-to-cart.php(320): PDO->prepare('SELECT * FROM c...')\n#1 {main}"
+            }
+        },
+        "http_code": 500,
+        "backtrace": [
+            {
+                "file": "C:\\xampp1\\htdocs\\Food\\add-to-cart.php",
+                "line": 451,
+                "function": "sendJsonResponse"
+            }
+        ]
+    }
+}
+[2025-07-04 17:48:15] {
+    "SCRIPT_START": {
+        "time": "2025-07-04 17:48:15",
+        "method": "POST",
+        "post": {
+            "product_id": "1",
+            "quantity": "1"
+        },
+        "get": [],
+        "input": "product_id=1&quantity=1",
+        "session": {
+            "user_id": "2",
+            "username": "anii_ket__",
+            "role": "user"
+        }
+    }
+}
+[2025-07-04 17:48:15] Database connection test successful
+[2025-07-04 17:48:15] Add to cart request: {"post":{"product_id":"1","quantity":"1"},"session":{"user_id":"2","username":"anii_ket__","role":"user"},"user_id":"2"}
+[2025-07-04 17:48:15] {
+    "USER_SESSION": {
+        "user_id": 2,
+        "session_id": "1uc4e0jp30m3qgpob90vg0fdgj"
+    }
+}
+[2025-07-04 17:48:15] {
+    "REQUEST_DETAILS": {
+        "method": "POST",
+        "content_type": "application\/x-www-form-urlencoded",
+        "raw_input": "product_id=1&quantity=1",
+        "post": {
+            "product_id": "1",
+            "quantity": "1"
+        },
+        "get": []
+    }
+}
+[2025-07-04 17:48:15] {
+    "PARSED_INPUT": {
+        "product_id": "1",
+        "quantity": "1"
+    }
+}
+[2025-07-04 17:48:15] {
+    "PROCESSING_REQUEST": {
+        "user_id": 2,
+        "product_id": 1,
+        "quantity": 1
+    }
+}
+[2025-07-04 17:48:15] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1, Session: {"user_id":"2","username":"anii_ket__","role":"user"}
+[2025-07-04 17:48:15] Cart table already exists
+[2025-07-04 17:48:15] Cart Error: {"error":"Error adding to cart: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'product_id' in 'where clause'","file":"C:\\xampp1\\htdocs\\Food\\add-to-cart.php","line":320,"trace":"#0 C:\\xampp1\\htdocs\\Food\\add-to-cart.php(320): PDO->prepare('SELECT * FROM c...')\n#1 {main}"}
+[2025-07-04 17:48:15] {
+    "ERROR_RESPONSE": {
+        "message": "Failed to add item to cart",
+        "data": {
+            "message": "An error occurred while updating your cart",
+            "details": {
+                "error": "Error adding to cart: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'product_id' in 'where clause'",
+                "file": "C:\\xampp1\\htdocs\\Food\\add-to-cart.php",
+                "line": 320,
+                "trace": "#0 C:\\xampp1\\htdocs\\Food\\add-to-cart.php(320): PDO->prepare('SELECT * FROM c...')\n#1 {main}"
+            }
+        },
+        "http_code": 500,
+        "backtrace": [
+            {
+                "file": "C:\\xampp1\\htdocs\\Food\\add-to-cart.php",
+                "line": 451,
+                "function": "sendJsonResponse"
+            }
+        ]
+    }
+}
+[2025-07-04 17:48:17] {
+    "SCRIPT_START": {
+        "time": "2025-07-04 17:48:17",
+        "method": "POST",
+        "post": {
+            "product_id": "2",
+            "quantity": "1"
+        },
+        "get": [],
+        "input": "product_id=2&quantity=1",
+        "session": {
+            "user_id": "2",
+            "username": "anii_ket__",
+            "role": "user"
+        }
+    }
+}
+[2025-07-04 17:48:17] Database connection test successful
+[2025-07-04 17:48:17] Add to cart request: {"post":{"product_id":"2","quantity":"1"},"session":{"user_id":"2","username":"anii_ket__","role":"user"},"user_id":"2"}
+[2025-07-04 17:48:17] {
+    "USER_SESSION": {
+        "user_id": 2,
+        "session_id": "1uc4e0jp30m3qgpob90vg0fdgj"
+    }
+}
+[2025-07-04 17:48:17] {
+    "REQUEST_DETAILS": {
+        "method": "POST",
+        "content_type": "application\/x-www-form-urlencoded",
+        "raw_input": "product_id=2&quantity=1",
+        "post": {
+            "product_id": "2",
+            "quantity": "1"
+        },
+        "get": []
+    }
+}
+[2025-07-04 17:48:17] {
+    "PARSED_INPUT": {
+        "product_id": "2",
+        "quantity": "1"
+    }
+}
+[2025-07-04 17:48:17] {
+    "PROCESSING_REQUEST": {
+        "user_id": 2,
+        "product_id": 2,
+        "quantity": 1
+    }
+}
+[2025-07-04 17:48:17] Add to cart request - User ID: 2, Product ID: 2, Quantity: 1, Session: {"user_id":"2","username":"anii_ket__","role":"user"}
+[2025-07-04 17:48:17] Cart table already exists
+[2025-07-04 17:48:17] Cart Error: {"error":"Error adding to cart: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'product_id' in 'where clause'","file":"C:\\xampp1\\htdocs\\Food\\add-to-cart.php","line":320,"trace":"#0 C:\\xampp1\\htdocs\\Food\\add-to-cart.php(320): PDO->prepare('SELECT * FROM c...')\n#1 {main}"}
+[2025-07-04 17:48:17] {
+    "ERROR_RESPONSE": {
+        "message": "Failed to add item to cart",
+        "data": {
+            "message": "An error occurred while updating your cart",
+            "details": {
+                "error": "Error adding to cart: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'product_id' in 'where clause'",
+                "file": "C:\\xampp1\\htdocs\\Food\\add-to-cart.php",
+                "line": 320,
+                "trace": "#0 C:\\xampp1\\htdocs\\Food\\add-to-cart.php(320): PDO->prepare('SELECT * FROM c...')\n#1 {main}"
+            }
+        },
+        "http_code": 500,
+        "backtrace": [
+            {
+                "file": "C:\\xampp1\\htdocs\\Food\\add-to-cart.php",
+                "line": 451,
+                "function": "sendJsonResponse"
+            }
+        ]
+    }
+}
+[2025-07-04 17:49:15] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 17:51:38] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 17:51:52] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 17:53:19] {
+    "SCRIPT_START": {
+        "time": "2025-07-04 17:53:19",
+        "method": "GET",
+        "post": [],
+        "get": {
+            "id": "1"
+        },
+        "input": "",
+        "session": {
+            "user_id": "2",
+            "username": "anii_ket__",
+            "role": "user"
+        }
+    }
+}
+[2025-07-04 17:53:19] Database connection test successful
+[2025-07-04 17:53:19] Add to cart request: {"post":[],"session":{"user_id":"2","username":"anii_ket__","role":"user"},"user_id":"2"}
+[2025-07-04 17:53:19] {
+    "USER_SESSION": {
+        "user_id": 2,
+        "session_id": "1uc4e0jp30m3qgpob90vg0fdgj"
+    }
+}
+[2025-07-04 17:53:19] {
+    "REQUEST_DETAILS": {
+        "method": "GET",
+        "content_type": "",
+        "raw_input": "",
+        "post": [],
+        "get": {
+            "id": "1"
+        }
+    }
+}
+[2025-07-04 17:53:19] {
+    "PARSED_INPUT": []
+}
+[2025-07-04 17:53:19] {
+    "VALIDATION_ERROR": {
+        "message": "Invalid product ID",
+        "product_id": "not provided",
+        "input": []
+    }
+}
+[2025-07-04 17:53:19] {
+    "ERROR_RESPONSE": {
+        "message": "Invalid product ID",
+        "data": {
+            "message": "Invalid product ID",
+            "product_id": "not provided",
+            "input": []
+        },
+        "http_code": 400,
+        "backtrace": [
+            {
+                "file": "C:\\xampp1\\htdocs\\Food\\add-to-cart.php",
+                "line": 248,
+                "function": "sendJsonResponse"
+            }
+        ]
+    }
+}
+[2025-07-04 17:53:25] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 17:53:26] {
+    "SCRIPT_START": {
+        "time": "2025-07-04 17:53:26",
+        "method": "POST",
+        "post": {
+            "product_id": "1",
+            "quantity": "1"
+        },
+        "get": [],
+        "input": "product_id=1&quantity=1",
+        "session": {
+            "user_id": "2",
+            "username": "anii_ket__",
+            "role": "user"
+        }
+    }
+}
+[2025-07-04 17:53:26] Database connection test successful
+[2025-07-04 17:53:26] Add to cart request: {"post":{"product_id":"1","quantity":"1"},"session":{"user_id":"2","username":"anii_ket__","role":"user"},"user_id":"2"}
+[2025-07-04 17:53:26] {
+    "USER_SESSION": {
+        "user_id": 2,
+        "session_id": "1uc4e0jp30m3qgpob90vg0fdgj"
+    }
+}
+[2025-07-04 17:53:26] {
+    "REQUEST_DETAILS": {
+        "method": "POST",
+        "content_type": "application\/x-www-form-urlencoded",
+        "raw_input": "product_id=1&quantity=1",
+        "post": {
+            "product_id": "1",
+            "quantity": "1"
+        },
+        "get": []
+    }
+}
+[2025-07-04 17:53:26] {
+    "PARSED_INPUT": {
+        "product_id": "1",
+        "quantity": "1"
+    }
+}
+[2025-07-04 17:53:27] {
+    "PROCESSING_REQUEST": {
+        "user_id": 2,
+        "product_id": 1,
+        "quantity": 1
+    }
+}
+[2025-07-04 17:53:27] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1, Session: {"user_id":"2","username":"anii_ket__","role":"user"}
+[2025-07-04 17:53:27] Cart table already exists
+[2025-07-04 17:53:27] Cart Error: {"error":"Error adding to cart: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'product_id' in 'where clause'","file":"C:\\xampp1\\htdocs\\Food\\add-to-cart.php","line":320,"trace":"#0 C:\\xampp1\\htdocs\\Food\\add-to-cart.php(320): PDO->prepare('SELECT * FROM c...')\n#1 {main}"}
+[2025-07-04 17:53:27] {
+    "ERROR_RESPONSE": {
+        "message": "Failed to add item to cart",
+        "data": {
+            "message": "An error occurred while updating your cart",
+            "details": {
+                "error": "Error adding to cart: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'product_id' in 'where clause'",
+                "file": "C:\\xampp1\\htdocs\\Food\\add-to-cart.php",
+                "line": 320,
+                "trace": "#0 C:\\xampp1\\htdocs\\Food\\add-to-cart.php(320): PDO->prepare('SELECT * FROM c...')\n#1 {main}"
+            }
+        },
+        "http_code": 500,
+        "backtrace": [
+            {
+                "file": "C:\\xampp1\\htdocs\\Food\\add-to-cart.php",
+                "line": 451,
+                "function": "sendJsonResponse"
+            }
+        ]
+    }
+}
+[2025-07-04 17:53:50] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 17:54:59] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 17:55:01] {
+    "SCRIPT_START": {
+        "time": "2025-07-04 17:55:01",
+        "method": "POST",
+        "post": {
+            "product_id": "2",
+            "quantity": "1"
+        },
+        "get": [],
+        "input": "product_id=2&quantity=1",
+        "session": {
+            "user_id": "2",
+            "username": "anii_ket__",
+            "role": "user"
+        }
+    }
+}
+[2025-07-04 17:55:01] Database connection test successful
+[2025-07-04 17:55:01] Add to cart request: {"post":{"product_id":"2","quantity":"1"},"session":{"user_id":"2","username":"anii_ket__","role":"user"},"user_id":"2"}
+[2025-07-04 17:55:01] {
+    "USER_SESSION": {
+        "user_id": 2,
+        "session_id": "1uc4e0jp30m3qgpob90vg0fdgj"
+    }
+}
+[2025-07-04 17:55:01] {
+    "REQUEST_DETAILS": {
+        "method": "POST",
+        "content_type": "application\/x-www-form-urlencoded",
+        "raw_input": "product_id=2&quantity=1",
+        "post": {
+            "product_id": "2",
+            "quantity": "1"
+        },
+        "get": []
+    }
+}
+[2025-07-04 17:55:01] {
+    "PARSED_INPUT": {
+        "product_id": "2",
+        "quantity": "1"
+    }
+}
+[2025-07-04 17:55:01] {
+    "PROCESSING_REQUEST": {
+        "user_id": 2,
+        "product_id": 2,
+        "quantity": 1
+    }
+}
+[2025-07-04 17:55:01] Add to cart request - User ID: 2, Product ID: 2, Quantity: 1, Session: {"user_id":"2","username":"anii_ket__","role":"user"}
+[2025-07-04 17:55:01] Cart table already exists
+[2025-07-04 17:55:01] Cart Error: {"error":"Error adding to cart: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'product_id' in 'where clause'","file":"C:\\xampp1\\htdocs\\Food\\add-to-cart.php","line":320,"trace":"#0 C:\\xampp1\\htdocs\\Food\\add-to-cart.php(320): PDO->prepare('SELECT * FROM c...')\n#1 {main}"}
+[2025-07-04 17:55:01] {
+    "ERROR_RESPONSE": {
+        "message": "Failed to add item to cart",
+        "data": {
+            "message": "An error occurred while updating your cart",
+            "details": {
+                "error": "Error adding to cart: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'product_id' in 'where clause'",
+                "file": "C:\\xampp1\\htdocs\\Food\\add-to-cart.php",
+                "line": 320,
+                "trace": "#0 C:\\xampp1\\htdocs\\Food\\add-to-cart.php(320): PDO->prepare('SELECT * FROM c...')\n#1 {main}"
+            }
+        },
+        "http_code": 500,
+        "backtrace": [
+            {
+                "file": "C:\\xampp1\\htdocs\\Food\\add-to-cart.php",
+                "line": 451,
+                "function": "sendJsonResponse"
+            }
+        ]
+    }
+}
+[2025-07-04 17:56:08] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 17:56:10] {
+    "SCRIPT_START": {
+        "time": "2025-07-04 17:56:10",
+        "method": "POST",
+        "post": {
+            "product_id": "1",
+            "quantity": "1"
+        },
+        "get": [],
+        "input": "product_id=1&quantity=1",
+        "session": {
+            "loggedin": false,
+            "is_admin": false,
+            "user_id": 2,
+            "username": "anii_ket__",
+            "role": "user"
+        }
+    }
+}
+[2025-07-04 17:56:10] Database connection test successful
+[2025-07-04 17:56:10] Add to cart request: {"post":{"product_id":"1","quantity":"1"},"session":{"loggedin":false,"is_admin":false,"user_id":2,"username":"anii_ket__","role":"user"},"user_id":2}
+[2025-07-04 17:56:10] {
+    "USER_SESSION": {
+        "user_id": 2,
+        "session_id": "h5kk395nogc3a9n17lbi4m4njf"
+    }
+}
+[2025-07-04 17:56:10] {
+    "REQUEST_DETAILS": {
+        "method": "POST",
+        "content_type": "application\/x-www-form-urlencoded",
+        "raw_input": "product_id=1&quantity=1",
+        "post": {
+            "product_id": "1",
+            "quantity": "1"
+        },
+        "get": []
+    }
+}
+[2025-07-04 17:56:10] {
+    "PARSED_INPUT": {
+        "product_id": "1",
+        "quantity": "1"
+    }
+}
+[2025-07-04 17:56:10] {
+    "PROCESSING_REQUEST": {
+        "user_id": 2,
+        "product_id": 1,
+        "quantity": 1
+    }
+}
+[2025-07-04 17:56:10] Add to cart request - User ID: 2, Product ID: 1, Quantity: 1, Session: {"loggedin":false,"is_admin":false,"user_id":2,"username":"anii_ket__","role":"user"}
+[2025-07-04 17:56:10] Cart table already exists
+[2025-07-04 17:56:10] Cart Error: {"error":"Error adding to cart: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'product_id' in 'where clause'","file":"C:\\xampp1\\htdocs\\Food\\add-to-cart.php","line":320,"trace":"#0 C:\\xampp1\\htdocs\\Food\\add-to-cart.php(320): PDO->prepare('SELECT * FROM c...')\n#1 {main}"}
+[2025-07-04 17:56:10] {
+    "ERROR_RESPONSE": {
+        "message": "Failed to add item to cart",
+        "data": {
+            "message": "An error occurred while updating your cart",
+            "details": {
+                "error": "Error adding to cart: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'product_id' in 'where clause'",
+                "file": "C:\\xampp1\\htdocs\\Food\\add-to-cart.php",
+                "line": 320,
+                "trace": "#0 C:\\xampp1\\htdocs\\Food\\add-to-cart.php(320): PDO->prepare('SELECT * FROM c...')\n#1 {main}"
+            }
+        },
+        "http_code": 500,
+        "backtrace": [
+            {
+                "file": "C:\\xampp1\\htdocs\\Food\\add-to-cart.php",
+                "line": 451,
+                "function": "sendJsonResponse"
+            }
+        ]
+    }
+}
+[2025-07-04 17:57:30] {
+    "SCRIPT_START": {
+        "time": "2025-07-04 17:57:30",
+        "method": "POST",
+        "post": {
+            "product_id": "2",
+            "quantity": "1"
+        },
+        "get": [],
+        "input": "product_id=2&quantity=1",
+        "session": {
+            "loggedin": false,
+            "is_admin": false,
+            "user_id": 2,
+            "username": "anii_ket__",
+            "role": "user"
+        }
+    }
+}
+[2025-07-04 17:57:30] Database connection test successful
+[2025-07-04 17:57:30] Add to cart request: {"post":{"product_id":"2","quantity":"1"},"session":{"loggedin":false,"is_admin":false,"user_id":2,"username":"anii_ket__","role":"user"},"user_id":2}
+[2025-07-04 17:57:30] {
+    "USER_SESSION": {
+        "user_id": 2,
+        "session_id": "h5kk395nogc3a9n17lbi4m4njf"
+    }
+}
+[2025-07-04 17:57:30] {
+    "REQUEST_DETAILS": {
+        "method": "POST",
+        "content_type": "application\/x-www-form-urlencoded",
+        "raw_input": "product_id=2&quantity=1",
+        "post": {
+            "product_id": "2",
+            "quantity": "1"
+        },
+        "get": []
+    }
+}
+[2025-07-04 17:57:30] {
+    "PARSED_INPUT": {
+        "product_id": "2",
+        "quantity": "1"
+    }
+}
+[2025-07-04 17:57:30] {
+    "PROCESSING_REQUEST": {
+        "user_id": 2,
+        "product_id": 2,
+        "quantity": 1
+    }
+}
+[2025-07-04 17:57:30] Add to cart request - User ID: 2, Product ID: 2, Quantity: 1, Session: {"loggedin":false,"is_admin":false,"user_id":2,"username":"anii_ket__","role":"user"}
+[2025-07-04 17:57:30] Cart table already exists
+[2025-07-04 17:57:31] Cart Error: {"error":"Error adding to cart: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'product_id' in 'where clause'","file":"C:\\xampp1\\htdocs\\Food\\add-to-cart.php","line":320,"trace":"#0 C:\\xampp1\\htdocs\\Food\\add-to-cart.php(320): PDO->prepare('SELECT * FROM c...')\n#1 {main}"}
+[2025-07-04 17:57:31] {
+    "ERROR_RESPONSE": {
+        "message": "Failed to add item to cart",
+        "data": {
+            "message": "An error occurred while updating your cart",
+            "details": {
+                "error": "Error adding to cart: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'product_id' in 'where clause'",
+                "file": "C:\\xampp1\\htdocs\\Food\\add-to-cart.php",
+                "line": 320,
+                "trace": "#0 C:\\xampp1\\htdocs\\Food\\add-to-cart.php(320): PDO->prepare('SELECT * FROM c...')\n#1 {main}"
+            }
+        },
+        "http_code": 500,
+        "backtrace": [
+            {
+                "file": "C:\\xampp1\\htdocs\\Food\\add-to-cart.php",
+                "line": 451,
+                "function": "sendJsonResponse"
+            }
+        ]
+    }
+}
+[2025-07-04 17:57:33] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 17:59:26] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 17:59:32] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 18:00:58] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 18:01:00] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 18:01:09] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 18:01:14] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 18:02:21] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 18:03:43] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list'
+[2025-07-04 18:07:28] {
+    "SCRIPT_START": {
+        "time": "2025-07-04 18:07:28",
+        "method": "GET",
+        "post": [],
+        "get": {
+            "id": "1"
+        },
+        "input": "",
+        "session": {
+            "loggedin": false,
+            "is_admin": false,
+            "user_id": 2,
+            "username": "anii_ket__",
+            "role": "user"
+        }
+    }
+}
+[2025-07-04 18:07:28] Database connection test successful
+[2025-07-04 18:07:28] Add to cart request: {"post":[],"session":{"loggedin":false,"is_admin":false,"user_id":2,"username":"anii_ket__","role":"user"},"user_id":2}
+[2025-07-04 18:07:28] {
+    "USER_SESSION": {
+        "user_id": 2,
+        "session_id": "h5kk395nogc3a9n17lbi4m4njf"
+    }
+}
+[2025-07-04 18:07:28] {
+    "REQUEST_DETAILS": {
+        "method": "GET",
+        "content_type": "",
+        "raw_input": "",
+        "post": [],
+        "get": {
+            "id": "1"
+        }
+    }
+}
+[2025-07-04 18:07:28] {
+    "PARSED_INPUT": []
+}
+[2025-07-04 18:07:28] {
+    "VALIDATION_ERROR": {
+        "message": "Invalid product ID",
+        "product_id": "not provided",
+        "input": []
+    }
+}
+[2025-07-04 18:07:28] {
+    "ERROR_RESPONSE": {
+        "message": "Invalid product ID",
+        "data": {
+            "message": "Invalid product ID",
+            "product_id": "not provided",
+            "input": []
+        },
+        "http_code": 400,
+        "backtrace": [
+            {
+                "file": "C:\\xampp1\\htdocs\\Food\\add-to-cart.php",
+                "line": 248,
+                "function": "sendJsonResponse"
+            }
+        ]
+    }
+}

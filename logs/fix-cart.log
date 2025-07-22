@@ -1,0 +1,36 @@
+[2025-07-04 14:56:17] Starting cart table fix...
+[2025-07-04 14:56:17] Cart table exists. Checking structure...
+[2025-07-04 14:56:17] Adding missing 'quantity' column to cart table...
+[2025-07-04 14:56:17] 
+✗ Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'product_id' in 'cart'
+[2025-07-04 14:56:17] Error details: Array
+(
+    [0] => 42S22
+    [1] => 1054
+    [2] => Unknown column 'product_id' in 'cart'
+)
+
+[2025-07-04 14:57:08] Starting cart table fix...
+[2025-07-04 14:57:08] Cart table exists. Checking structure...
+[2025-07-04 14:57:08] Adding missing 'quantity' column to cart table...
+[2025-07-04 14:57:08] 
+✗ Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'product_id' in 'cart'
+[2025-07-04 14:57:08] Error details: Array
+(
+    [0] => 42S22
+    [1] => 1054
+    [2] => Unknown column 'product_id' in 'cart'
+)
+
+[2025-07-04 20:58:12] Starting cart table fix...
+[2025-07-04 20:58:12] Cart table exists. Checking structure...
+[2025-07-04 20:58:12] Adding missing 'quantity' column to cart table...
+[2025-07-04 20:58:12] 
+✗ Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'product_id' in 'cart'
+[2025-07-04 20:58:12] Error details: Array
+(
+    [0] => 42S22
+    [1] => 1054
+    [2] => Unknown column 'product_id' in 'cart'
+)
+

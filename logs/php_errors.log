@@ -1,0 +1,72 @@
+[04-Jul-2025 15:23:10 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp1\htdocs\Food\add-to-cart.php on line 124
+[04-Jul-2025 15:23:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp1\htdocs\Food\add-to-cart.php:124
+Stack trace:
+#0 {main}
+  thrown in C:\xampp1\htdocs\Food\add-to-cart.php on line 124
+[04-Jul-2025 15:29:35 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp1\htdocs\Food\add-to-cart.php on line 133
+[04-Jul-2025 15:29:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp1\htdocs\Food\add-to-cart.php:133
+Stack trace:
+#0 {main}
+  thrown in C:\xampp1\htdocs\Food\add-to-cart.php on line 133
+[04-Jul-2025 15:29:50 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp1\htdocs\Food\add-to-cart.php on line 152
+[04-Jul-2025 15:29:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp1\htdocs\Food\add-to-cart.php:152
+Stack trace:
+#0 {main}
+  thrown in C:\xampp1\htdocs\Food\add-to-cart.php on line 152
+[04-Jul-2025 15:30:37 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp1\htdocs\Food\add-to-cart.php on line 152
+[04-Jul-2025 15:30:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp1\htdocs\Food\add-to-cart.php:152
+Stack trace:
+#0 {main}
+  thrown in C:\xampp1\htdocs\Food\add-to-cart.php on line 152
+[04-Jul-2025 15:38:05 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp1\htdocs\Food\add-to-cart.php on line 152
+[04-Jul-2025 15:38:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp1\htdocs\Food\add-to-cart.php:152
+Stack trace:
+#0 {main}
+  thrown in C:\xampp1\htdocs\Food\add-to-cart.php on line 152
+[04-Jul-2025 15:41:20 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp1\htdocs\Food\add-to-cart.php on line 152
+[04-Jul-2025 15:41:20 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp1\htdocs\Food\add-to-cart.php:152
+Stack trace:
+#0 {main}
+  thrown in C:\xampp1\htdocs\Food\add-to-cart.php on line 152
+[04-Jul-2025 15:44:50 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 15:46:55 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 15:51:52 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 15:53:57 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 15:54:57 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 15:55:00 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 15:55:13 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 15:57:24 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 15:58:53 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 16:00:20 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 16:01:04 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 16:01:11 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 16:03:15 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 16:05:06 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 16:05:53 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 16:06:47 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 16:07:07 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 16:08:22 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 16:09:42 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 16:11:16 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 16:13:15 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 16:25:02 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 16:33:52 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 16:35:12 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 17:48:13 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 17:48:15 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 17:48:17 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 17:53:26 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 17:55:01 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 17:56:10 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 17:57:30 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 17:57:34 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 17:59:36 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 18:01:01 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 18:01:17 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 18:02:32 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 18:03:44 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 18:04:51 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 18:05:24 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 20:57:49 Europe/Berlin] Auth check - User ID: 2, Logged in: yes
+[04-Jul-2025 21:45:51 Europe/Berlin] Auth check - User ID: 4, Logged in: yes
+[05-Jul-2025 21:24:34 Europe/Berlin] Auth check - User ID: 5, Logged in: yes

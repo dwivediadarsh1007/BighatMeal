@@ -1,0 +1,152 @@
+/* Customize Meal Section Styles */
+
+/* Card Styles */
+.customize-card {
+    border: none;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.customize-card .card-body {
+    padding: 25px;
+}
+
+/* Section Headers */
+.section-header {
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #e9ecef;
+}
+
+.section-header h4 {
+    color: #2c3e50;
+    font-weight: 600;
+}
+
+.section-header p {
+    color: #7f8c8d;
+    margin-bottom: 0;
+}
+
+/* List Group Items */
+.list-group-item {
+    border: none;
+    padding: 15px;
+    border-bottom: 1px solid #e9ecef;
+    transition: all 0.3s ease;
+}
+
+.list-group-item:last-child {
+    border-bottom: none;
+}
+
+.list-group-item:hover {
+    background-color: #f8f9fa;
+}
+
+/* Item Images */
+.item-image {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 768px) {
+    .item-image {
+        width: 50px;
+        height: 50px;
+    }
+}
+
+/* Form Controls */
+.form-check-label {
+    font-weight: 500;
+    color: #2c3e50;
+}
+
+.form-check-label strong {
+    color: #2980b9;
+}
+
+.quantity-selector {
+    width: 100px;
+    margin-left: 15px;
+}
+
+.form-control-sm {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.875rem;
+    border-radius: 5px;
+}
+
+/* Summary Panel */
+#summary-container {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.summary-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+    border-bottom: 1px solid #e9ecef;
+}
+
+.summary-item:last-child {
+    border-bottom: none;
+}
+
+.summary-item span:last-child {
+    font-weight: 600;
+    color: #2c3e50;
+}
+
+/* Add to Cart Button */
+#add-to-cart {
+    width: 100%;
+    padding: 12px;
+    font-weight: 600;
+    background-color: #2980b9;
+    border: none;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
+
+#add-to-cart:hover {
+    background-color: #2573a6;
+    transform: translateY(-2px);
+}
+
+/* Nutritional Info */
+.nutritional-info {
+    font-size: 0.875rem;
+    color: #7f8c8d;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .list-group-item {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    
+    .quantity-selector {
+        margin-left: 0;
+        margin-top: 10px;
+    }
+    
+    .summary-item {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 5px;
+    }
+    
+    .summary-item span:last-child {
+        margin-left: 0;
+    }
+}
