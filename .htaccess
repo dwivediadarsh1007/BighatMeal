@@ -1,0 +1,16 @@
+# Enable PHP error logging
+php_flag display_errors on
+php_value error_reporting E_ALL
+php_value error_log "C:/xampp1/htdocs/Food/logs/php_errors.log"
+
+# Set timezone
+php_value date.timezone "Asia/Kolkata"
+
+# Increase memory limit
+php_value memory_limit 256M
+
+# Increase max execution time
+php_value max_execution_time 300
+
+# Enable short open tag
+php_flag short_open_tag on

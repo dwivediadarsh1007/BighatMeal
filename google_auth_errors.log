@@ -1,0 +1,101 @@
+[21-Jul-2025 00:02:55 Asia/Kolkata] === Google Auth Script Started ===
+[21-Jul-2025 00:02:55 Asia/Kolkata] Session ID: 8bff4b659120e9b2ea7ac30fc8becc3b
+[21-Jul-2025 00:03:56 Asia/Kolkata] === Google Auth Script Started ===
+[21-Jul-2025 00:03:56 Asia/Kolkata] Session ID: 8bff4b659120e9b2ea7ac30fc8becc3b
+[21-Jul-2025 00:04:01 Asia/Kolkata] === Google Auth Script Started ===
+[21-Jul-2025 00:04:01 Asia/Kolkata] Session ID: 8bff4b659120e9b2ea7ac30fc8becc3b
+[21-Jul-2025 00:04:04 Asia/Kolkata] === Google Auth Script Started ===
+[21-Jul-2025 00:04:04 Asia/Kolkata] Session ID: 8bff4b659120e9b2ea7ac30fc8becc3b
+[21-Jul-2025 00:05:23 Asia/Kolkata] === Google Auth Script Started ===
+[21-Jul-2025 00:05:23 Asia/Kolkata] Session ID: 8bff4b659120e9b2ea7ac30fc8becc3b
+[21-Jul-2025 00:05:23 Asia/Kolkata] Google OAuth Configuration:
+[21-Jul-2025 00:05:23 Asia/Kolkata] - Client ID: 1619194599...
+[21-Jul-2025 00:05:23 Asia/Kolkata] - Redirect URI: https://adarshdwivedi.free.nf/google_auth.php
+[21-Jul-2025 00:05:23 Asia/Kolkata] - Request URI: /google_auth.php
+[21-Jul-2025 00:05:26 Asia/Kolkata] === Google Auth Script Started ===
+[21-Jul-2025 00:05:26 Asia/Kolkata] Session ID: 8bff4b659120e9b2ea7ac30fc8becc3b
+[21-Jul-2025 00:05:26 Asia/Kolkata] Google OAuth Configuration:
+[21-Jul-2025 00:05:26 Asia/Kolkata] - Client ID: 1619194599...
+[21-Jul-2025 00:05:26 Asia/Kolkata] - Redirect URI: https://adarshdwivedi.free.nf/google_auth.php
+[21-Jul-2025 00:05:26 Asia/Kolkata] - Request URI: /google_auth.php?state=f0cc7bdbae6568624c44a7dd37ad02b4764b3442e1e5b6e1b8305430644af66b&code=4%2F0AVMBsJga9g9WdhrOlMwEGas6rMVmMcs-rgrO3AfWjpmSTHXKiWXCWlzTKeDOejeBW7LwMw&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none
+[21-Jul-2025 00:05:27 Asia/Kolkata] User logged in. User ID: 31
+[21-Jul-2025 00:05:27 Asia/Kolkata] Session data after login: Array
+(
+    [oauth2state] => f0cc7bdbae6568624c44a7dd37ad02b4764b3442e1e5b6e1b8305430644af66b
+    [user_id] => 31
+    [username] => adarsh
+    [full_name] => adarsh
+    [email] => ad5397608@gmail.com
+    [role] => user
+)
+
+[21-Jul-2025 00:07:37 Asia/Kolkata] === Google Auth Script Started ===
+[21-Jul-2025 00:07:37 Asia/Kolkata] Session ID: a44c6aaf32b4488a32aac84769a1af92
+[21-Jul-2025 00:07:37 Asia/Kolkata] Google OAuth Configuration:
+[21-Jul-2025 00:07:37 Asia/Kolkata] - Client ID: 1619194599...
+[21-Jul-2025 00:07:37 Asia/Kolkata] - Redirect URI: https://adarshdwivedi.free.nf/google_auth.php
+[21-Jul-2025 00:07:37 Asia/Kolkata] - Request URI: /google_auth.php
+[21-Jul-2025 00:07:46 Asia/Kolkata] === Google Auth Script Started ===
+[21-Jul-2025 00:07:46 Asia/Kolkata] Session ID: a44c6aaf32b4488a32aac84769a1af92
+[21-Jul-2025 00:07:46 Asia/Kolkata] Google OAuth Configuration:
+[21-Jul-2025 00:07:46 Asia/Kolkata] - Client ID: 1619194599...
+[21-Jul-2025 00:07:46 Asia/Kolkata] - Redirect URI: https://adarshdwivedi.free.nf/google_auth.php
+[21-Jul-2025 00:07:46 Asia/Kolkata] - Request URI: /google_auth.php?state=1261b00799588b0e0a010bb0208e025c8b0fcd6a05169566baf5f14ab5894a6f&code=4%2F0AVMBsJjkwJVuyxfvtzPrXGHAqVi4dFZsPaqw5GY6b8pMhKsvmouXrCc-U3SySKCAjXnRdw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none&i=2
+[22-Jul-2025 18:21:16 Asia/Kolkata] === Google Auth Script Started ===
+[22-Jul-2025 18:21:16 Asia/Kolkata] Session ID: f81186cd095e319bd43fcda4d743ed66
+[22-Jul-2025 18:21:16 Asia/Kolkata] Google OAuth Configuration:
+[22-Jul-2025 18:21:16 Asia/Kolkata] - Client ID: 1619194599...
+[22-Jul-2025 18:21:16 Asia/Kolkata] - Redirect URI: https://adarshdwivedi.free.nf/google_auth.php
+[22-Jul-2025 18:21:16 Asia/Kolkata] - Request URI: /google_auth.php
+[22-Jul-2025 18:21:20 Asia/Kolkata] === Google Auth Script Started ===
+[22-Jul-2025 18:21:20 Asia/Kolkata] Session ID: f81186cd095e319bd43fcda4d743ed66
+[22-Jul-2025 18:21:20 Asia/Kolkata] Google OAuth Configuration:
+[22-Jul-2025 18:21:20 Asia/Kolkata] - Client ID: 1619194599...
+[22-Jul-2025 18:21:20 Asia/Kolkata] - Redirect URI: https://adarshdwivedi.free.nf/google_auth.php
+[22-Jul-2025 18:21:20 Asia/Kolkata] - Request URI: /google_auth.php?state=1e797429e316bf9957d95e1ad333d17fa5f84aff92891ec002a2570bdbe7ff2f&code=4%2F0AVMBsJhwVWVzwflPg-zmonCktulDGxd_QlyH0arDTHa9Bn3bwsoKoBL498Gaxw7tTeLHkA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+[22-Jul-2025 18:21:20 Asia/Kolkata] User logged in. User ID: 31
+[22-Jul-2025 18:21:20 Asia/Kolkata] Session data after login: Array
+(
+    [oauth2state] => 1e797429e316bf9957d95e1ad333d17fa5f84aff92891ec002a2570bdbe7ff2f
+    [user_id] => 31
+    [username] => adarsh
+    [full_name] => adarsh
+    [email] => ad5397608@gmail.com
+    [role] => user
+)
+
+[22-Jul-2025 18:27:27 Asia/Kolkata] === Google Auth Script Started ===
+[22-Jul-2025 18:27:27 Asia/Kolkata] Session ID: f81186cd095e319bd43fcda4d743ed66
+[22-Jul-2025 18:27:27 Asia/Kolkata] Google OAuth Configuration:
+[22-Jul-2025 18:27:27 Asia/Kolkata] - Client ID: 1619194599...
+[22-Jul-2025 18:27:27 Asia/Kolkata] - Redirect URI: https://adarshdwivedi.free.nf/google_auth.php
+[22-Jul-2025 18:27:27 Asia/Kolkata] - Request URI: /google_auth.php
+[22-Jul-2025 18:37:58 Asia/Kolkata] === Google Auth Script Started ===
+[22-Jul-2025 18:37:58 Asia/Kolkata] Session ID: f81186cd095e319bd43fcda4d743ed66
+[22-Jul-2025 18:37:58 Asia/Kolkata] Google OAuth Configuration:
+[22-Jul-2025 18:37:58 Asia/Kolkata] - Client ID: 7206040785...
+[22-Jul-2025 18:37:58 Asia/Kolkata] - Redirect URI: https://adarshdwivedi.free.nf/google_auth.php
+[22-Jul-2025 18:37:58 Asia/Kolkata] - Request URI: /google_auth.php
+[22-Jul-2025 18:38:45 Asia/Kolkata] === Google Auth Script Started ===
+[22-Jul-2025 18:38:45 Asia/Kolkata] Session ID: f81186cd095e319bd43fcda4d743ed66
+[22-Jul-2025 18:38:45 Asia/Kolkata] Google OAuth Configuration:
+[22-Jul-2025 18:38:45 Asia/Kolkata] - Client ID: 7206040785...
+[22-Jul-2025 18:38:45 Asia/Kolkata] - Redirect URI: https://adarshdwivedi.free.nf/google_auth.php
+[22-Jul-2025 18:38:45 Asia/Kolkata] - Request URI: /google_auth.php
+[22-Jul-2025 18:38:56 Asia/Kolkata] === Google Auth Script Started ===
+[22-Jul-2025 18:38:56 Asia/Kolkata] Session ID: f81186cd095e319bd43fcda4d743ed66
+[22-Jul-2025 18:38:56 Asia/Kolkata] Google OAuth Configuration:
+[22-Jul-2025 18:38:56 Asia/Kolkata] - Client ID: 7206040785...
+[22-Jul-2025 18:38:56 Asia/Kolkata] - Redirect URI: https://adarshdwivedi.free.nf/google_auth.php
+[22-Jul-2025 18:38:56 Asia/Kolkata] - Request URI: /google_auth.php?state=5e2e45ebccd1fe5acc5569dd38d2eb32c1633b6248c1d708cc236f315023e012&code=4%2F0AVMBsJhakJvSbA3ZbARvXWCP18dgoMNN9-xAEd16wAvV-RNlH-wm2053GOydnd_SPiiMOg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent
+[22-Jul-2025 18:38:56 Asia/Kolkata] User logged in. User ID: 31
+[22-Jul-2025 18:38:56 Asia/Kolkata] Session data after login: Array
+(
+    [oauth2state] => 5e2e45ebccd1fe5acc5569dd38d2eb32c1633b6248c1d708cc236f315023e012
+    [user_id] => 31
+    [username] => adarsh
+    [full_name] => adarsh
+    [email] => ad5397608@gmail.com
+    [role] => user
+)
+
