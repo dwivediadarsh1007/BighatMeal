@@ -35,7 +35,7 @@ if (!isset($_SESSION['username'])) {
                     <a class="nav-link" href="about.php"><i class="bi bi-info-circle me-1"></i> About</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="https://wa.me/917869203258" target="_blank"><i class="bi bi-whatsapp me-1"></i> Contact</a>
+                    <a class="nav-link" href="https://wa.me/916261148989" target="_blank"><i class="bi bi-whatsapp me-1"></i> Contact</a>
                 </li>
             </ul>
             <ul class="navbar-nav">
