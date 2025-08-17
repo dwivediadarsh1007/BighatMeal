@@ -28,7 +28,7 @@
                         <li><a href="about.php"><i class="bi bi-info-circle me-2"></i>About Us</a></li>
                         <li><a href="menu.php"><i class="bi bi-menu-button-wide me-2"></i>Our Menu</a></li>
                         <li><a href="gallery.php"><i class="bi bi-images me-2"></i>Gallery</a></li>
-                        <li><a href="contact.php"><i class="bi bi-envelope me-2"></i>Contact Us</a></li>
+                        <li><a href="https://api.whatsapp.com/send/?phone=916261148989&text&type=phone_number&app_absent=0"><i class="bi bi-envelope me-2"></i>Contact Us</a></li>
                     </ul>
                 </div>
             </div>
@@ -38,9 +38,9 @@
                 <div class="footer-widget">
                     <h5>Contact Info</h5>
                     <ul class="contact-info">
-                        <li><i class="bi bi-geo-alt-fill me-2"></i>Adhartal, Jabalpur, Madhya Pradesh, 482004</li>
-                        <li><i class="bi bi-telephone-fill me-2"></i>+91 88174 88082</li>
-                        <li><i class="bi bi-envelope-fill me-2"></i>bighatpvtltd@gmail.com</li>
+                        <li><i class="bi bi-geo-alt-fill me-2"></i>Suhagi Adhartal, Jabalpur, Madhya Pradesh, 482004</li>
+                        <li><i class="bi bi-telephone-fill me-2"></i>+91 6261148989</li>
+                        <li><i class="bi bi-envelope-fill me-2"></i>ad5397608@gmail.com</li>
                         <li><i class="bi bi-clock-fill me-2"></i>Mon-Sun: 8:00 AM - 10:00 PM</li>
                     </ul>
                 </div>
@@ -74,7 +74,7 @@
         <!-- Copyright & Payment Methods -->
         <div class="row align-items-center">
             <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                <p class="mb-0">&copy; <?php echo date('Y'); ?> BighatMeal. All rights reserved.</p>
+                <p class="mb-0">&copy; <?php echo date('Y'); ?> Adarsh Dwivedi. All rights reserved.</p>
             </div>
             <div class="col-md-6 text-center text-md-end">
                 <div class="payment-methods">
